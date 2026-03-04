@@ -9,3 +9,8 @@
 .blue-text{
     color: #00BCFF;
 }
+
+.active{
+    background-color: #422AD5;
+    color: white;
+}
